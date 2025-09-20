@@ -1,0 +1,184 @@
+{
+	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
+	"CreationDate" : "2025-09-19T22:56:31.813-00:00",
+	"Sources" : 
+	[
+		{
+			"Packages" : 
+			[
+				{
+					"PackageIdentifier" : "7zip.7zip",
+					"Version" : "25.01"
+				},
+				{
+					"PackageIdentifier" : "CPUID.CPU-Z.ROG",
+					"Version" : "2.16"
+				},
+				{
+					"PackageIdentifier" : "Git.Git",
+					"Version" : "2.51.0"
+				},
+				{
+					"PackageIdentifier" : "Anaconda.Miniconda3",
+					"Version" : "py313_25.7.0-2"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.OneDrive",
+					"Version" : "25.159.0817.0003"
+				},
+				{
+					"PackageIdentifier" : "RARLab.WinRAR",
+					"Version" : "7.13.0"
+				},
+				{
+					"PackageIdentifier" : "Motorola.MobileDrivers",
+					"Version" : "6.4.0"
+				},
+				{
+					"PackageIdentifier" : "Malwarebytes.Malwarebytes",
+					"Version" : "5.3.8.212"
+				},
+				{
+					"PackageIdentifier" : "JanDeDobbeleer.OhMyPosh",
+					"Version" : "26.23.5"
+				},
+				{
+					"PackageIdentifier" : "MongoDB.Server",
+					"Version" : "8.0.13"
+				},
+				{
+					"PackageIdentifier" : "Oracle.VirtualBox",
+					"Version" : "7.2.2"
+				},
+				{
+					"PackageIdentifier" : "Nvidia.PhysX",
+					"Version" : "9.23.1019"
+				},
+				{
+					"PackageIdentifier" : "OpenJS.NodeJS.LTS",
+					"Version" : "22.19.0"
+				},
+				{
+					"PackageIdentifier" : "Oracle.JDK.17",
+					"Version" : "11.0.13.0"
+				},
+				{
+					"PackageIdentifier" : "Brave.Brave",
+					"Version" : "140.1.82.170"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Edge",
+					"Version" : "140.0.3485.81"
+				},
+				{
+					"PackageIdentifier" : "Valve.Steam",
+					"Version" : "2.10.91.91"
+				},
+				{
+					"PackageIdentifier" : "Mobatek.MobaXterm",
+					"Version" : "25.2.0.5296"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.Runtime.6",
+					"Version" : "6.0.16"
+				},
+				{
+					"PackageIdentifier" : "Python.Launcher",
+					"Version" : "> 3.13.5"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.Runtime.8",
+					"Version" : "8.0.13"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64",
+					"Version" : "14.42.34438.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86",
+					"Version" : "14.42.34438.0"
+				},
+				{
+					"PackageIdentifier" : "Discord.Discord",
+					"Version" : "1.0.9208"
+				},
+				{
+					"PackageIdentifier" : "Fastfetch-cli.Fastfetch",
+					"Version" : "2.52.0"
+				},
+				{
+					"PackageIdentifier" : "MongoDB.Compass.Full",
+					"Version" : "1.46.11"
+				},
+				{
+					"PackageIdentifier" : "Python.Python.3.10",
+					"Version" : "3.10.0"
+				},
+				{
+					"PackageIdentifier" : "Telegram.TelegramDesktop",
+					"Version" : "6.1.3"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VisualStudioCode",
+					"Version" : "1.104.1"
+				},
+				{
+					"PackageIdentifier" : "notable.notable",
+					"Version" : "1.8.4"
+				},
+				{
+					"PackageIdentifier" : "CharlesMilette.TranslucentTB",
+					"Version" : "2025.1.0.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Teams",
+					"Version" : "25212.2204.3869.2204"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.AppInstaller",
+					"Version" : "1.26.429.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.PowerShell",
+					"Version" : "7.5.3.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.UI.Xaml.2.8",
+					"Version" : "8.2501.31001.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCLibs.Desktop.14",
+					"Version" : "14.0.33728.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsTerminal",
+					"Version" : "1.22.12111.0"
+				}
+			],
+			"SourceDetails" : 
+			{
+				"Argument" : "https://cdn.winget.microsoft.com/cache",
+				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
+				"Name" : "winget",
+				"Type" : "Microsoft.PreIndexed.Package"
+			}
+		},
+		{
+			"Packages" : 
+			[
+				{
+					"PackageIdentifier" : "XP89DCGQ3K6VLD",
+					"Version" : "0.94.0"
+				}
+			],
+			"SourceDetails" : 
+			{
+				"Argument" : "https://storeedgefd.dsx.mp.microsoft.com/v9.0",
+				"Identifier" : "StoreEdgeFD",
+				"Name" : "msstore",
+				"Type" : "Microsoft.Rest"
+			}
+		}
+	],
+	"WinGetVersion" : "1.11.430"
+}
